@@ -123,4 +123,12 @@ The client wants to create a Road Accident Dashboard for the years 2021 and 2022
 Software Use:
 1.	MS EXCEL
 2.	Microsoft Power BI
-3.	MS SQL Server
+3.	MS SQL Server	
+
+
+
+
+<br><br>
+<div align="center">
+  <sub>© 2023 Amlanjyoti Laha. All Rights Reserved.</sub>
+</div>
