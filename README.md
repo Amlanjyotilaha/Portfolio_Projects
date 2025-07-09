@@ -8,7 +8,7 @@ In this section, I will list Data Analytics Projects briefly describing the tech
 1. [📊 Atliq Technologies Sales Insight](#-atliq-technologies-sales-insight)
 2. [👩‍💼 Atliq Technologies HR Data Analysis](#-atliq-technologies-hr-data-analysis)
 3. [🛒 Electronic Store Sales & Buy Pattern Analysis](#-electronic-store-sales--buy-pattern-analysis)
-4. [🚴‍♂️ Adventure Work Cycles E-Commerce Data Analysis](#-adventure-work-cycles-e-commerce-data-analysis)
+4. [🚴‍♂️ Adventure Work Cycles E-Commerce Data Analysis](#%EF%B8%8F-adventure-work-cycles-e-commerce-data-analysis)
 5. [🎶 Digital Music Store SQL Analysis](#-digital-music-store-sql_analysis)
 6. [🍕 Pizza Sales Analysis - SQL - Excel](#-pizza-sales-analysis---sql---excel)
 7. [🚨 Road Accident Analysis - SQL - Power BI - Excel](#-road-accident-analysis---sql---power-bi---excel)
