@@ -2,6 +2,17 @@
 
 In this section, I will list Data Analytics Projects briefly describing the technology stack used to solve cases.
 
+
+## 📚 Table of Contents
+
+1. [📊 Atliq Technologies Sales Insight](#-atliq-technologies-sales-insight)
+2. [👩‍💼 Atliq Technologies HR Data Analysis](#-atliq-technologies-hr-data-analysis)
+3. [🛒 Electronic Store Sales & Buy Pattern Analysis](#-electronic-store-sales--buy-pattern-analysis)
+4. [🚴‍♂️ Adventure Work Cycles E-Commerce Data Analysis](#-adventure-work-cycles-e-commerce-data-analysis)
+5. [🎶 Digital Music Store SQL Analysis](#-digital-music-store-sql_analysis)
+6. [🍕 Pizza Sales Analysis - SQL - Excel](#-pizza-sales-analysis---sql---excel)
+7. [🚨 Road Accident Analysis - SQL - Power BI - Excel](#-road-accident-analysis---sql---power-bi---excel)
+
 ---
 
 # 📊 **Atliq Technologies Sales Insight**
@@ -18,6 +29,8 @@ Finding Profit Margin, Sales Quantity and Revenue made in each year/month; Analy
 
 **✅ Result:** Created an Analytical Dashboard to analyse sales of a company involved in Computer hardware , peripheral business. The final dashboard probes at displaying the sales trend of AtliQ hardware, allowing users to understand the behavioral data and make informed decisions regarding business requirements. This dashboard with high data quality could benefit in increasing the revenue at least by 7% in the next quarter and helps to resolve issues.
 
+
+[🔝 Top](#-table-of-contents)
 ---
 
 # 👩‍💼 **Atliq Technologies HR Data Analysis**
@@ -34,6 +47,8 @@ Find Total Employees Attendance %, Sick Leave % and Work from home %; Find the t
 
 **✅ Result:** Created an Analytical Dashboard to analyse HR data of a company involved in Computer hardware , peripheral business. Dashboards to track employee data for the HR team, including working hours, attendance, performance, and leaves. The dashboard streamlined HR processes, prioritize tasks and increased efficiency. This Dashboard visuals with high data quality can improve the workflow management, process improvement and save 3–4hrs of work for the HR daily auditing.
 
+
+[🔝 Top](#-table-of-contents)
 ---
 
 # 🛒 **Electronic Store Sales & Buy Pattern Analysis**
@@ -50,6 +65,8 @@ The data contains hundreds of thousands of electronic purchases broken down by m
 
 **✅ Result:** The final reporting solutions were effective in displaying monthly sales, sales processes and the reasons for such patterns, as well as the most popular selling city and product. This report also discusses the optimum times to run adverts in order to influence customer engagement and reduce churn. This reporting analysis with high data quality will benefit business owners in making critical decisions using cost analysis and risk assessments regarding their company's growth, risk assessment, pricing strategies negotiation and business performance.
 
+
+[🔝 Top](#-table-of-contents)
 ---
 
 # 🚴‍♂️ **Adventure Work Cycles E-Commerce Data Analysis**
@@ -66,6 +83,8 @@ Power BI dashboard consisted of: Total orders by category and subcategory, matri
 
 **✅ Result:** This business metrics can assist the organization in tracking essential business Insights (sales, revenue, profit, and returns), comparing regional performance, analyzing product-level trends and forecasting, and identifying high-value customers, encouraging business stakeholders to follow up and understand and make informed data-driven decisions. This dashboard with high data quality could help in improving performance metrics like increasing the revenue and profit distribution by at least 10% in the next year by running promotional offers on top-performing products. The dashboard also shows the top-performing product in terms of the highest number of orders and most profit generated to leverage the potential of the products for the upcoming year. Loss-making items with a low order volume and a high return rate can also be discontinued in order to optimize the balance sheet for best practices using root cause analysis.
 
+
+[🔝 Top](#-table-of-contents)
 ---
 
 # 🎶 **Digital Music Store SQL_Analysis**
@@ -82,6 +101,8 @@ This analysis will provide great insight to the stakeholders to take the right a
 1. PostgreSQL (PgAdmin4)  
 2. SQL Server Management Studio  
 
+
+[🔝 Top](#-table-of-contents)
 ---
 
 # 🍕 **PIZZA SALES ANALYSIS - SQL - EXCEL**
@@ -104,6 +125,8 @@ This analysis will provide great insight to the stakeholders to take the right a
 - MS SQL Server Management Studio  
 - Microsoft Excel  
 
+
+[🔝 Top](#-table-of-contents)
 ---
 
 # 🚨 **ROAD ACCIDENT ANALYSIS - SQL - POWER BI - EXCEL**
@@ -126,6 +149,8 @@ The client wants to create a Road Accident Dashboard for the years 2021 and 2022
 - Microsoft Power BI  
 - MS SQL Server  
 
+
+[🔝 Top](#-table-of-contents)
 ---
 
 <br><br>
